@@ -6,3 +6,5 @@
 /aclImdbGen.tar.gz
 /sequence-to-sequence
 /.idea
+/text-generation
+/encoder_model
